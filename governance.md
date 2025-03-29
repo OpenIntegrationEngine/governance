@@ -107,25 +107,24 @@ All code contributions must be licensed under the Mozilla Public License 2.0 (MP
 
 Contributors agree to the Developer Certificate of Origin (DCO) implicitly by submitting signed PRs under their username.
 
-### 8.1 Contributor License Agreement (CLA)
+### 8.1 Developer Certificate of Origin (DCO)
 
-Contributors may also be required to sign a Contributor License Agreement (CLA) under the following circumstances:
+This project uses the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) as its contribution mechanism. By submitting a contribution, contributors certify that they have the legal right to submit the work under the project's license and agree to the terms of the DCO.
 
-- The contributor is submitting code on behalf of an organization.
-- The contribution includes significant intellectual property.
-- The Steering Committee deems it necessary for legal or compliance reasons.
+To indicate agreement, contributors must include a `Signed-off-by` line in each commit, using the same name and email address as in the commit metadata, e.g.:
 
-Individual CLA (ICLA):
-- Affirms that the contributor owns the rights to their contribution.
-- Grants the project a license to use and relicense the contribution under MPL-2.0.
+```
+Signed-off-by: Jane Doe <jane@example.com>
+```
 
-Corporate CLA (CCLA):
-- Signed by an authorized representative of the organization.
-- Covers current and future employees contributing on the organization's behalf.
+By adding this line, the contributor agrees to the DCO. The line can be added automatically using:
 
-The CLA text will be publicly available and consistent with the open and inclusive principles of the project.
+```
+git commit -s
+```
 
-License changes must be approved by a two-thirds vote of the Steering Committee and accompanied by a public comment period of no fewer than 30 days.
+License changes must be approved by a two-thirds vote of the Steering Committee and be accompanied by a public comment period of at least 30 days.
+
 
 ## 9. Trademarks
 
