@@ -21,7 +21,7 @@
 - Jonathan Bartels
 - Kaur Palang
 - Paul Coyne
-- Tony Agermano
+- Tony Germano
 
 ---
 
@@ -34,5 +34,5 @@
 - Jonathan Bartels
 - Kaur Palang
 - Paul Coyne
-- Tony Agermano
+- Tony Germano
 
