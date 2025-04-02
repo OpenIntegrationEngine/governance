@@ -1,19 +1,38 @@
 # Organization Structure of OpenIntegrationEngine project
 
-## Steering Committee
+## Current members
 
-### As of 26th of March 2025
+### Steering Committee
 
+#### As of 31st of March 2026
+
+- Chris Gibson
 - Jonathan Bartels
 - Kaur Palang
+- Kiran Ayyagari
 - Paul Coyne
-- Tony Agermano
+- Sean Rowe
+- Tony Germano
 
 ## Maintainers
 
-### As of 26th of March 2025
+#### As of 26th of March 2025
 
 - Jonathan Bartels
 - Kaur Palang
 - Paul Coyne
-- Tony Agermano
+- Tony Germano
+
+---
+
+## Historical compositions
+
+### Steering Committee
+
+#### As of 26th of March 2025
+
+- Jonathan Bartels
+- Kaur Palang
+- Paul Coyne
+- Tony Germano
+
