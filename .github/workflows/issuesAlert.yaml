@@ -2,7 +2,7 @@ name: Open Issues alerts
 
 on:
   schedule:
-    - cron: '0 0/12 * * *' # Every 12 hours
+    - cron: '0 0 * * *' # Every 24 hours
 
 jobs:
   cleanup:
@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           DISCORD_HOOK: ${{ secrets.DISCORD_HOOK }}
         working-directory: scripts
-        run: ./issues.sh
+        run: ./openIssuesAlert.sh
