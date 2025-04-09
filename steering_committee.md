@@ -4,7 +4,7 @@
 
 ### Steering Committee
 
-#### As of 31st of March 2026
+#### As of 31st of March 2025
 
 - Chris Gibson
 - Jonathan Bartels
