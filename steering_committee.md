@@ -1,38 +1,12 @@
-# Organization Structure of OpenIntegrationEngine project
+# Steering Committee of OpenIntegrationEngine project
 
 ## Current members
 
-### Steering Committee
-
-#### As of 31st of March 2025
-
-- Chris Gibson
-- Jonathan Bartels
-- Kaur Palang
-- Kiran Ayyagari
-- Paul Coyne
-- Sean Rowe
-- Tony Germano
-
-## Maintainers
-
-#### As of 26th of March 2025
-
-- Jonathan Bartels
-- Kaur Palang
-- Paul Coyne
-- Tony Germano
-
----
-
-## Historical compositions
-
-### Steering Committee
-
-#### As of 26th of March 2025
-
-- Jonathan Bartels
-- Kaur Palang
-- Paul Coyne
-- Tony Germano
+- [Chris Gibson](https://github.com/gibson9583)
+- [Jonathan Bartels](https://github.com/jonbartels)
+- [Kaur Palang](https://github.com/kpalang)
+- [Kiran Ayyagari](https://github.com/kayyagari)
+- [Paul Coyne](https://github.com/pacmano1)
+- [Sean Rowe](https://github.com/ssrowe)
+- [Tony Germano](https://github.com/tonygermano)
 

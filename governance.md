@@ -21,39 +21,54 @@ We adhere to the following principles:
 
 ### 4.1 Contributors
 
-Contributors are individuals who have made sustained and meaningful contributions to the project, including code, documentation, issue triage, community engagement, or design. Recognition is granted by the Maintainers and recorded publicly.
+Contributors are individuals who have made sustained and meaningful contributions to the project, including code, documentation, issue triage, community engagement, or design. 
+
+The list of contributors is recorded publicly in the `governance` repository in [`contributors.md`](contributors.md) .
 
 Contributors may:
 - Participate in discussions and working groups.
 - Vote in certain community-wide decisions, such as electing Steering Committee members.
 - Nominate themselves or others for governance roles.
 
+Selection and Removal:
+- New Contributors can be nominated by the Steering Committee, Maintainers, or other Contributors
+- New Contributors may self-select by submitting a PR to the [`contributors.md`](contributors.md) document in the `governance` repo
+- A Contributor may be removed for inactivity, misconduct, or loss of trust by a two-thirds Maintainer vote
+- A Contributor may be removed for inactivity, misconduct, or loss of trust by a simple majority Steering Committee vote
+
 ### 4.2 Maintainers
 
 Maintainers are responsible for the health and direction of the codebase and community. They are expected to:
-- Review and merge contributions.
-- Set release schedules and coordinate with stakeholders.
-- Enforce the Code of Conduct.
-- Participate in regular Maintainer meetings.
+- Review and merge contributions
+- Set release schedules and coordinate with stakeholders
+- Enforce the Code of Conduct
+- Participate in regular Maintainer meetings
+
+The list of contributors is recorded publicly in the `governance` repository in [`maintainers.md`](maintainers.md) .
 
 Selection and Removal:
-- New Maintainers are nominated by existing Maintainers and must be approved by consensus.
-- A Maintainer may be removed for inactivity, misconduct, or loss of trust by a two-thirds Maintainer vote.
+- New Maintainers are nominated by existing Maintainers and must be approved by consensus
+- A Maintainer may be removed for inactivity, misconduct, or loss of trust by a two-thirds Maintainer vote
+- A Maintainer may be removed for inactivity, misconduct, or loss of trust by a simple majority Steering Committee vote
 
 ### 4.3 Steering Committee
 
 The Steering Committee oversees project governance, handles escalated decisions, and maintains legal and organizational alignment.
 
+The list of steering committee members is recorded publicly in the `governance` repository in [`steering_committee.md`](steering_committee.md) .
+
 Responsibilities:
-- Approve new Maintainers.
-- Mediate disputes between contributors or Maintainers.
-- Oversee budgets, donations, and financial transparency.
-- Ensure alignment with mission and long-term strategy.
+- Approve new Maintainers
+- Mediate disputes between contributors or Maintainers
+- Oversee budgets, donations, and financial transparency
+- Ensure alignment with mission and long-term strategy
 
 Composition and Terms:
 - Composed of 5–9 individuals including Maintainers and active Contributors.
-- Members serve 1-year renewable terms.
-- Elections are held annually via Contributor vote.
+- Members serve 1-year renewable terms
+- Contributors, Maintainers, and Steering Committee members may nominate Steering Committee candidates
+- Elections are held annually via a public Contributor vote
+
 
 ## 5. Decision-Making
 
@@ -63,9 +78,9 @@ The project favors rough consensus and community input. Decision types include:
 - Escalated or Contested Issues: Referred to the Steering Committee.
 
 Voting Mechanics:
-- Quorum is two-thirds of eligible voters.
-- Simple majority required unless specified otherwise.
-- Abstentions do not count toward quorum.
+- Quorum is two-thirds of eligible voters
+- Simple majority required unless specified otherwise
+- Abstentions do not count toward quorum
 
 ## 6. Project Lifecycle
 
