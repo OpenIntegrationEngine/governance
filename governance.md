@@ -166,4 +166,6 @@ Amendments to this document require:
 
 ---
 
-Adopted by the Open Integration Engine project on \[Date\]
+Governance History can be seen in the `governance` repository.
+
+Corrections and amendments merged to the `main` branch will have been appropriately approved and adopted by the Steering Commitee and are in effect as soon as they are merged.
