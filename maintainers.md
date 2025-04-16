@@ -1,12 +1,9 @@
-# Steering Committee of OpenIntegrationEngine project
+# Maintainers of OpenIntegrationEngine project
 
-## Current members
-
-- Chris Gibson
 - [Jonathan Bartels](https://github.com/jonbartels)
 - [Kaur Palang](https://github.com/kpalang)
-- [Kiran Ayyagari](https://github.com/kayyagari)
 - [Kaur Palang](https://github.com/kpalang)
-- Sean Rowe
 - [Kaur Palang](https://github.com/kpalang)
+
+
 
