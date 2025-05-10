@@ -159,10 +159,10 @@ Working Groups operate transparently and must follow the Code of Conduct.
 ## 12. Amendments
 
 Amendments to this document require:
-
-- A proposal posted publicly.
-- A 14-day comment period.
-- Approval by two-thirds of the Steering Committee.
+- A proposal posted publicly as an [Issue in the governance repository](https://github.com/OpenIntegrationEngine/governance/issues)
+  - Issue must also have the `amendment` label added
+- A 14-day comment period
+- Approval by two-thirds of the Steering Committee
 
 ---
 
