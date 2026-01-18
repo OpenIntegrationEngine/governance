@@ -20,23 +20,21 @@ We do this to preserve code, assist with other projects, and to otherwise suppor
 
 OIE will do this with general consensus from the [Steering Committee](steering_committee.md) and [Maintainers](maintainers.md). 
 
-### Donated
+### Maintained
 
-OIE has already had several donors assign copyright of their work to OIE. These donors generously supported the project with their work. This lets OIE own and maintain projects which valuable to the community. 
+If you currently own or maintain plugin code which you think would benefit the community if it were hosted under the OIE umbrella, you may initiate a request to transfer maintainership of that plugin code to the project.
 
-Donations of entire projects are accepted on a case-by-case basis, outside of the typical pull-request process. The steering committee, with input from maintainers, will review any offered donations. 
-
-We will generally request assignment of copyright for donated projects. This is what differentiates a donation from a fork. Assignment of copyright to OIE represents us 
+Accepting the responsibility to maintain a project will be handled on a case-by-case basis, outside of the typical pull-request process. The steering committee and maintainers will review any projects offered under this category.
 
 ### Incorporated
 
-After being forked or donated, some projects may be incorporated to the OpenIntegrationEngine. These are projects which are especially valuable can be incorporated to our main repositories.
+After being forked or accepted as maintained, some projects may be incorporated to the OpenIntegrationEngine. These are projects which are especially valuable can be incorporated to our main repositories.
 
 This will be handled through our typical pull-request process. Any donated or forked repositories will be updated with documentation, links, flags, archival, etc. to indicate that they have been incorporated elsewhere.
 
 Projects which are incorporated from forks will, as much as is practical, be incorporated in a way which allows us to continue to collaborate with up- or down-stream projects.
 
-## Distribution
+## Distributed
 
 OIE may choose to build and distribute these projects. When doing so OIE _MUST_:
 
@@ -46,9 +44,10 @@ OIE may choose to build and distribute these projects. When doing so OIE _MUST_:
 
 ## Adopted Projects
 
-- Forked
-  - [TLS Plugin](https://github.com/OpenIntegrationEngine/tls-manager-plugin) from NovaMap and Diridium
-- Donated
-  - [LDAP Plugin](https://github.com/OpenIntegrationEngine/ldap-plugin) from Christopher Schulz
-  - [MFA Plugin](https://github.com/OpenIntegrationEngine/mfa-plugin) from Christopher Schulz
-- Incorporated
+Adopted projects will have repositories set up with topics to represent their status. All adopted projects will have a topic of "Adopted" and then an additional topic representing their category.
+
+Search links for the repositories are:
+- [Forked](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Aforked&type=repositories)
+- [Donated](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Adonated&type=repositories)
+- [Incorporated](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Aincorporated&type=repositories)
+- [Distributed](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Adistributedd&type=repositories)
