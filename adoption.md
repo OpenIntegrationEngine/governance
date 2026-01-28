@@ -1,6 +1,6 @@
 # Adoption of Other Projects
 
-The Open Integration Engine may adopt other projects. This includes, but is not limited to, forking other open source projects, donations of existing open source projects, or other intellectual property of value to Open Integration Engine and our community.
+The Open Integration Engine may adopt other projects. OIE may adopt other projects of value or relevance to OIE and its community. Adopting a project may involve, but is not limited to, forking other open source projects, maintaining other open source projects, or otherwise acquiring intellectual property of value to Open Integration Engine and our community. Any adoption will require compatible open licenses.
 
 ## License Compatibilty
 
