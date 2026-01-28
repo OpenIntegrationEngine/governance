@@ -30,7 +30,7 @@ Accepting the responsibility to maintain a project will be handled on a case-by-
 
 After being forked or accepted as maintained, some projects may be incorporated to the OpenIntegrationEngine. These are projects which are especially valuable can be incorporated to our main repositories.
 
-This will be handled through our typical pull-request process. Any donated or forked repositories will be updated with documentation, links, flags, archival, etc. to indicate that they have been incorporated elsewhere.
+This will be handled through our typical pull-request process. Any maintained or forked repositories will be updated with documentation, links, flags, archival, etc. to indicate that they have been incorporated elsewhere.
 
 Projects which are incorporated from forks will, as much as is practical, be incorporated in a way which allows us to continue to collaborate with up- or down-stream projects.
 
@@ -48,6 +48,6 @@ Adopted projects will have repositories set up with topics to represent their st
 
 Search links for the repositories are:
 - [Forked](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Aforked&type=repositories)
-- [Donated](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Adonated&type=repositories)
+- [Maintained](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Amaintained&type=repositories)
 - [Incorporated](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Aincorporated&type=repositories)
 - [Distributed](https://github.com/search?q=org%3AOpenIntegrationEngine+topic%3Aadopted+topic%3Adistributedd&type=repositories)
